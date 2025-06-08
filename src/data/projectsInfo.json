@@ -7,8 +7,14 @@
   },
   {
     "img":"/images/weather.png",
-    "head": "Hava prognozu saytı",
-    "body": "Bu layihə Azərbaycanın bölgələrinin hazırkı hava durumunu göstərir. Layihə, 'MyMentor Agency'də keçdiyim internship zamanı komanda yoldaşımla birgə işləyərək yaradılıb. Bu təcrübə React biliklərimin inkişafına böyük töhfə verdi. Hava məlumatları üçün openweathermap.org API istifadə olunub.",
+    "head": "Azərbaycan Bölgələrinin Hava Proqnozu Tətbiqi",
+    "body": "Bu layihə \"MyMentor Agency\"də keçdiyim internship proqramı zamanı komanda yoldaşımla birgə hazırlanıb. Tətbiq Azərbaycanın müxtəlif bölgələrinin real zamanlı hava durumunu göstərir və məlumatlar OpenWeatherMap API vasitəsilə əldə olunur.\nLayihə üzərində işləyərkən React biliklərimi praktiki şəkildə inkişaf etdirdim, eyni zamanda Git istifadə edərək komanda şəklində əməkdaşlıq bacarıqlarımı da artırdım.",
     "link": "https://weatherazerbaijan.netlify.app/"
+  },
+  {
+    "img":"/images/designo.png",
+    "head": "Dizayn Tətbiqi",
+    "body": "Bu layihə \"MyMentor Agency\"də keçdiyim internship proqramı zamanı komanda yoldaşımla birgə hazırlanıb. Layihənin əsas məqsədi Tailwind CSS-in effektiv tətbiqinə fokuslanmaq və bu vasitə ilə stilvermə üzrə biliklərimizi inkişaf etdirmək olub. React.js istifadə edilərək hazırlanmış tətbiq, həm komponent əsaslı inkişaf prosesini, həm də modern UI dizayn prinsiplərini praktiki şəkildə öyrənməyə imkan yaradıb.",
+    "link": "https://fdesigno.netlify.app/"
   }
 ]
