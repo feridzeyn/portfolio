@@ -1,0 +1,14 @@
+[
+  {
+    "img": "/images/Screenshot.png",
+    "head": "E-commerce saytı",
+    "body": "Bu layihə React.js ilə hazırlanıb və komponent əsaslı düşünmə tərzimi inkişaf etdirməyimə kömək\n\t\t\t\t\t\tedib. Layihədə state management, props ilə işləmə və React Router kimi funksiyalar tətbiq\n\t\t\t\t\t\tolunub. Məhsulları səbətə əlavə etmək və istifadəçi interfeysini idarə etmək üçün useState,\n\t\t\t\t\t\tuseEffect kimi hook-lardan istifadə olunub.",
+    "link": "https://fbrand.netlify.app/"
+  },
+  {
+    "img":"/images/weather.png",
+    "head": "Hava prognozu saytı",
+    "body": "Bu layihə Azərbaycanın bölgələrinin hazırkı hava durumunu göstərir. Layihə, 'MyMentor Agency'də keçdiyim internship zamanı komanda yoldaşımla birgə işləyərək yaradılıb. Bu təcrübə React biliklərimin inkişafına böyük töhfə verdi. Hava məlumatları üçün openweathermap.org API istifadə olunub.",
+    "link": "https://weatherazerbaijan.netlify.app/"
+  }
+]
