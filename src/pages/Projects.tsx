@@ -5,7 +5,7 @@ export default function Projects() {
 		<>
 			<section>
 				<div className="mb-[100px]">
-					<h1 className="text-6xl text-red-700 font-bold">My Projects</h1>
+					<h1 className="text-6xl text-red-500 font-bold">My Projects</h1>
 				</div>
 				<div className="">
 					<CardComponent/>

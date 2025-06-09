@@ -5,7 +5,7 @@ export function Header() {
 	return (
 		<div  className="py-10 flex justify-between items-center mb-22 ">
 			<Link to="/">
-				<span className="text-red-700 self-center whitespace-nowrap text-3xl font-semibold ">Farid Zeynalzade</span>
+				<span className="text-red-400 self-center whitespace-nowrap text-3xl font-semibold ">Fərid Zeynalzadə</span>
 			</Link>
 
 			<div className="flex gap-x-6 text-xl font-medium text-red-400 ">

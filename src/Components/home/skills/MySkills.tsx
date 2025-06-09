@@ -7,7 +7,7 @@ export default function MySkills() {
 		<>
 			<div>
 				<div className="pt-22">
-					<h1 className="text-6xl text-red-700 font-bold">My skills</h1>
+					<h1 className="text-6xl text-red-500 font-bold">My skills</h1>
 				</div>
 
 				<SkillsBody/>

@@ -16,5 +16,17 @@
     "head": "Dizayn Tətbiqi",
     "body": "Bu layihə \"MyMentor Agency\"də keçdiyim internship proqramı zamanı komanda yoldaşımla birgə hazırlanıb. Layihənin əsas məqsədi Tailwind CSS-in effektiv tətbiqinə fokuslanmaq və bu vasitə ilə stilvermə üzrə biliklərimizi inkişaf etdirmək olub. React.js istifadə edilərək hazırlanmış tətbiq, həm komponent əsaslı inkişaf prosesini, həm də modern UI dizayn prinsiplərini praktiki şəkildə öyrənməyə imkan yaradıb.",
     "link": "https://fdesigno.netlify.app/"
+  },
+  {
+    "img":"/images/currency.png",
+    "head": "Pul dəyişmə tətbiqi",
+    "body": "Bu layihə JavaScript öyrənmə prosesim zamanı müəllimimin rəhbərliyi ilə hazırlanıb. Tətbiq vasitəsilə real vaxtda valyuta məzənnələrinin API-dən alınması və istifadəçiyə çevrilmiş məbləğin göstərilməsi funksionallığını həyata keçirmişəm. Bu layihə mənə JavaScript əsaslarını möhkəmləndirməyə və API inteqrasiyasına dair ilkin biliklər qazanmağa kömək edib.",
+    "link": "https://fcurrency.netlify.app/"
+  },
+  {
+    "img":"/images/unsplash.png",
+    "head": "Axtarış tətbiqi",
+    "body": "JavaScript öyrənərkən hazırladığım bu layihədə Unsplash API-dən istifadə olunaraq istifadəçinin daxil etdiyi sorğuya uyğun şəkillər dinamik şəkildə gətirilir və göstərilir. Bu layihə vasitəsilə API-lərlə işləmə, fetch metodu və DOM manipulyasiyası üzrə praktiki təcrübə qazanmışam.",
+    "link": "https://snapfinder.netlify.app/"
   }
 ]
