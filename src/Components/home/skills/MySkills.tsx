@@ -9,7 +9,6 @@ export default function MySkills() {
 				<div className="pt-22">
 					<h1 className="text-6xl text-red-500 font-bold">My skills</h1>
 				</div>
-
 				<SkillsBody/>
 				<div className="flex justify-between  mt-15">
 					<CurrentlyLearning/>

@@ -8,7 +8,7 @@ export function CardComponent() {
 	const [visibleItem, setvisibleItem] = useState(infoArray.slice(0, 2));
 
 	const loadMore = () => {
-		const newCount = visibleCount + 3;
+		const newCount = visibleCount + 2;
 		setVisibleCount(newCount);
 		setvisibleItem(infoArray.slice(0, newCount));
 	}
