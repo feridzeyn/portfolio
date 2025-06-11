@@ -1,32 +1,32 @@
 [
   {
     "img": "/images/Screenshot.png",
-    "head": "E-commerce saytı",
-    "body": "Bu layihə React.js ilə hazırlanıb və komponent əsaslı düşünmə tərzimi inkişaf etdirməyimə kömək\n\t\t\t\t\t\tedib. Layihədə state management, props ilə işləmə və React Router kimi funksiyalar tətbiq\n\t\t\t\t\t\tolunub. Məhsulları səbətə əlavə etmək və istifadəçi interfeysini idarə etmək üçün useState,\n\t\t\t\t\t\tuseEffect kimi hook-lardan istifadə olunub.",
+    "head": "projects.ecommerce.title",
+    "body": "projects.ecommerce.description",
     "link": "https://fbrand.netlify.app/"
   },
   {
     "img":"/images/weather.png",
-    "head": "Azərbaycan Bölgələrinin Hava Proqnozu Tətbiqi",
-    "body": "Bu layihə \"MyMentor Agency\"də keçdiyim internship proqramı zamanı komanda yoldaşımla birgə hazırlanıb. Tətbiq Azərbaycanın müxtəlif bölgələrinin real zamanlı hava durumunu göstərir və məlumatlar OpenWeatherMap API vasitəsilə əldə olunur.\nLayihə üzərində işləyərkən React biliklərimi praktiki şəkildə inkişaf etdirdim, eyni zamanda Git istifadə edərək komanda şəklində əməkdaşlıq bacarıqlarımı da artırdım.",
+    "head": "projects.weather.title",
+    "body": "projects.weather.description",
     "link": "https://weatherazerbaijan.netlify.app/"
   },
   {
     "img":"/images/designo.png",
-    "head": "Dizayn Tətbiqi",
-    "body": "Bu layihə \"MyMentor Agency\"də keçdiyim internship proqramı zamanı komanda yoldaşımla birgə hazırlanıb. Layihənin əsas məqsədi Tailwind CSS-in effektiv tətbiqinə fokuslanmaq və bu vasitə ilə stilvermə üzrə biliklərimizi inkişaf etdirmək olub. React.js istifadə edilərək hazırlanmış tətbiq, həm komponent əsaslı inkişaf prosesini, həm də modern UI dizayn prinsiplərini praktiki şəkildə öyrənməyə imkan yaradıb.",
+    "head": "projects.design.title",
+    "body": "projects.design.description",
     "link": "https://fdesigno.netlify.app/"
   },
   {
     "img":"/images/currency.png",
-    "head": "Pul dəyişmə tətbiqi",
-    "body": "Bu layihə JavaScript öyrənmə prosesim zamanı müəllimimin rəhbərliyi ilə hazırlanıb. Tətbiq vasitəsilə real vaxtda valyuta məzənnələrinin API-dən alınması və istifadəçiyə çevrilmiş məbləğin göstərilməsi funksionallığını həyata keçirmişəm. Bu layihə mənə JavaScript əsaslarını möhkəmləndirməyə və API inteqrasiyasına dair ilkin biliklər qazanmağa kömək edib.",
+    "head": "projects.currency.title",
+    "body": "projects.currency.description",
     "link": "https://fcurrency.netlify.app/"
   },
   {
     "img":"/images/unsplash.png",
-    "head": "Axtarış tətbiqi",
-    "body": "JavaScript öyrənərkən hazırladığım bu layihədə Unsplash API-dən istifadə olunaraq istifadəçinin daxil etdiyi sorğuya uyğun şəkillər dinamik şəkildə gətirilir və göstərilir. Bu layihə vasitəsilə API-lərlə işləmə, fetch metodu və DOM manipulyasiyası üzrə praktiki təcrübə qazanmışam.",
+    "head": "projects.search.title",
+    "body": "projects.search.description",
     "link": "https://snapfinder.netlify.app/"
   }
 ]

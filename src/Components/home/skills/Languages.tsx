@@ -1,41 +1,43 @@
+import {useTranslation} from "react-i18next";
 
 export default function Languages() {
+	const {t} = useTranslation();
 	return (
 		<>
 			<section>
 				<p className="text-red-400 flex justify-center items-center font-semibold text-2xl mb-12">
-					Bildiyim dillər
+					{t('languagesIKnow')}
 				</p>
 				<table>
-					<tbody className="flex flex-col gap-y-6">
-					<tr className="flex gap-x-[150px]">
-						<th className="text-red-400 text-2xl font-normal block w-[150px]">English</th>
+					<tbody className="flex flex-col gap-y-6 text-left">
+					<tr className="flex gap-x-[200px]">
+						<th className="text-red-400 text-2xl font-normal block w-[180px]">{t('languageLevels.english')}</th>
 						<td className="text-red-400 text-2xl">
-							B2
+							{t('languageLevels.b2')}
 						</td>
 					</tr>
-					<tr className="flex gap-x-[150px]">
-						<th className="text-red-400 text-2xl font-normal block w-[150px]">
-							Czech
+					<tr className="flex gap-x-[200px]">
+						<th className="text-red-400 text-2xl font-normal block w-[180px]">
+							{t('languageLevels.czech')}
 						</th>
 						<td className="text-red-400 text-2xl">
-							B1
+							{t('languageLevels.b1')}
 						</td>
 					</tr>
-					<tr className="flex gap-x-[150px]">
-						<th className="text-red-400 text-2xl font-normal block w-[150px]">
-							Turkish
+					<tr className="flex gap-x-[200px]">
+						<th className="text-red-400 text-2xl font-normal block w-[180px]">
+							{t('languageLevels.turkish')}
 						</th>
 						<td className="text-red-400 text-2xl">
-							C1
+							{t('languageLevels.c1')}
 						</td>
 					</tr>
-					<tr className="flex gap-x-[150px]">
-						<th className="text-red-400 text-2xl block w-[150px]  font-normal">
-							Azerbaijani
+					<tr className="flex gap-x-[200px]">
+						<th className="text-red-400 text-2xl block w-[180px]  font-normal">
+							{t('languageLevels.azerbaijani')}
 						</th>
 						<td className="text-red-400 text-2xl">
-							Mother Tongue
+							{t('languageLevels.motherTongue')}
 						</td>
 					</tr>
 					</tbody>

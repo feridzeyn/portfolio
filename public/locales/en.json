@@ -1,0 +1,50 @@
+{
+  "name": "Farid Zeynalzade",
+  "home": "Home",
+  "about": "About",
+  "project": "Projects",
+  "contact": "Contact",
+  "mySkills": "My skills",
+  "usedTechnologies": "Technologies and skills I use:",
+  "currentlyLearning": "Things I’m currently improving and learning:",
+  "languagesIKnow": "Languages I know",
+  "myProjects": "My Projects",
+  "languageLevels": {
+    "english": "English",
+    "czech": "Czech",
+    "turkish": "Turkish",
+    "azerbaijani": "Azerbaijani",
+    "b2": "B2 level",
+    "b1": "B1 level",
+    "c1": "C1 level",
+    "motherTongue": "Mother tongue",
+    "projectTitle": "E-commerce website",
+    "projectDescription": "This project was developed using React.js and helped me improve my component-based thinking. The project implements features such as state management, working with props, and React Router. Hooks like useState and useEffect were used to add products to the cart and manage the user interface."
+  },
+  "projects": {
+    "ecommerce": {
+      "title": "E-commerce Website",
+      "description": "This project was developed with React.js and helped me improve my component-based thinking approach. Features such as state management, working with props, and React Router were implemented. Hooks like useState and useEffect were used to add products to the cart and manage the user interface."
+    },
+    "weather": {
+      "title": "Azerbaijan Regional Weather Forecast App",
+      "description": "This project was developed together with my teammate during my internship program at MyMentor Agency. The app displays real-time weather conditions for different regions of Azerbaijan, and the data is fetched via the OpenWeatherMap API. While working on the project, I improved my practical React skills and enhanced my teamwork skills by using Git for collaboration."
+    },
+    "design": {
+      "title": "Design Application",
+      "description": "This project was developed together with my teammate during my internship program at MyMentor Agency. The main goal of the project was to focus on the effective use of Tailwind CSS and to improve our styling knowledge. The app was built using React.js, providing a practical opportunity to learn both component-based development and modern UI design principles."
+    },
+    "currency": {
+      "title": "Currency Converter Application",
+      "description": "This project was developed under the guidance of my instructor during my JavaScript learning process. The application fetches real-time exchange rates from an API and displays the converted amount to the user. This project helped me solidify my understanding of JavaScript basics and gain initial experience with API integration."
+    },
+    "search": {
+      "title": "Search Application",
+      "description": "In this project I built while learning JavaScript, the Unsplash API is used to dynamically fetch and display images based on the user's input query. Through this project, I gained practical experience in working with APIs, the fetch method, and DOM manipulation."
+    }
+},
+  "goToLink": "Go to link",
+  "aboutMe": "I am Farid Zeynalzade, a graduate of the Azerbaijan Technical University. Since June 2024, I have been developing my skills in the field of frontend development. My mentor <1>Elgun Mammadli</1> played a key role in providing me with fundamental knowledge and direction on this path. I did not limit my learning to the course; I also continuously expanded my knowledge through self-study. I completed my internship at \"MyMentor Internship and Development Agency,\" where I participated in several small and one large team project. These experiences provided me with valuable insights into the real work environment, teamwork, and project management. I am currently deepening my knowledge of frontend technologies and continue learning to build user-oriented and functional web interfaces.",
+  "uploadCV": "Click to upload CV",
+  "loadMore": "Load More.."
+}

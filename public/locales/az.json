@@ -1,0 +1,47 @@
+{
+  "name": "Fərid Zeynalzadə",
+  "home": "Əsas Səhifə",
+  "about": "Haqqımda",
+  "project": "Layihələr",
+  "contact": "Əlaqə",
+  "mySkills": "Bacarıqlarım",
+  "usedTechnologies": "İstifadə etdiyim texnologiyalar və bacarıqlarım:",
+  "currentlyLearning": "Hal-hazırda inkişaf etdirdiklərim və öyrəndiklərim:",
+  "languagesIKnow": "Bildiyim dillər",
+  "myProjects": "Layihələrim",
+  "languageLevels": {
+    "english": "İngilis dili",
+    "czech": "Çex dili",
+    "turkish": "Türk dili",
+    "azerbaijani": "Azərbaycan dili",
+    "b2": "B2 səviyyəsi",
+    "b1": "B1 səviyyəsi",
+    "c1": "C1 səviyyəsi",
+    "motherTongue": "Ana dili"},
+  "projects": {
+    "ecommerce": {
+      "title": "E-commerce saytı",
+      "description": "Bu layihə React.js ilə hazırlanıb və komponent əsaslı düşünmə tərzimi inkişaf etdirməyimə kömək edib. Layihədə state management, props ilə işləmə və React Router kimi funksiyalar tətbiq olunub. Məhsulları səbətə əlavə etmək və istifadəçi interfeysini idarə etmək üçün useState, useEffect kimi hook-lardan istifadə olunub."
+    },
+    "weather": {
+      "title": "Azərbaycan Bölgələrinin Hava Proqnozu Tətbiqi",
+      "description": "Bu layihə \"MyMentor Agency\"də keçdiyim internship proqramı zamanı komanda yoldaşımla birgə hazırlanıb. Tətbiq Azərbaycanın müxtəlif bölgələrinin real zamanlı hava durumunu göstərir və məlumatlar OpenWeatherMap API vasitəsilə əldə olunur. Layihə üzərində işləyərkən React biliklərimi praktiki şəkildə inkişaf etdirdim, eyni zamanda Git istifadə edərək komanda şəklində əməkdaşlıq bacarıqlarımı da artırdım."
+    },
+    "design": {
+      "title": "Dizayn Tətbiqi",
+      "description": "Bu layihə \"MyMentor Agency\"də keçdiyim internship proqramı zamanı komanda yoldaşımla birgə hazırlanıb. Layihənin əsas məqsədi Tailwind CSS-in effektiv tətbiqinə fokuslanmaq və bu vasitə ilə stilvermə üzrə biliklərimizi inkişaf etdirmək olub. React.js istifadə edilərək hazırlanmış tətbiq, həm komponent əsaslı inkişaf prosesini, həm də modern UI dizayn prinsiplərini praktiki şəkildə öyrənməyə imkan yaradıb."
+    },
+    "currency": {
+      "title": "Pul dəyişmə tətbiqi",
+      "description": "Bu layihə JavaScript öyrənmə prosesim zamanı müəllimimin rəhbərliyi ilə hazırlanıb. Tətbiq vasitəsilə real vaxtda valyuta məzənnələrinin API-dən alınması və istifadəçiyə çevrilmiş məbləğin göstərilməsi funksionallığını həyata keçirmişəm. Bu layihə mənə JavaScript əsaslarını möhkəmləndirməyə və API inteqrasiyasına dair ilkin biliklər qazanmağa kömək edib."
+    },
+    "search": {
+      "title": "Axtarış tətbiqi",
+      "description": "JavaScript öyrənərkən hazırladığım bu layihədə Unsplash API-dən istifadə olunaraq istifadəçinin daxil etdiyi sorğuya uyğun şəkillər dinamik şəkildə gətirilir və göstərilir. Bu layihə vasitəsilə API-lərlə işləmə, fetch metodu və DOM manipulyasiyası üzrə praktiki təcrübə qazanmışam."
+    }
+  },
+  "goToLink": "Keçid et",
+  "aboutMe": "Mən Fərid Zeynalzadə, Azərbaycan Texniki Universitetinin məzunuyam. 2024-cü ilin iyun ayından etibarən frontend sahəsində inkişaf etməyə başlamışam. Bu yolda mənə əsas bilikləri qazandıran və istiqamət göstərən müəllimim <1>Elgün Məmmədli</1> olub. Öyrənmə prosesimi yalnız kursla məhdudlaşdırmamış, self-study vasitəsilə öz üzərimdə daim çalışaraq biliklərimi genişləndirmişəm. Təcrübəmi \"MyMentor Internship and Development Agency\"-də keçmişəm. Orada bir neçə kiçik və bir böyük komanda layihəsində iştirak etmişəm. Bu layihələr mənə real iş mühiti, komanda işi və layihə idarəçiliyi sahəsində mühüm təcrübə qazandırıb. Hazırda frontend texnologiyalarında biliklərimi daha da dərinləşdirir və istifadəçi yönümlü, funksional veb interfeyslər yaratmaq üçün daim öyrənməyə davam edirəm.",
+  "uploadCV": "CV yükləmək üçün kliklə",
+  "loadMore": "Daha çoxunu göstə..r"
+}

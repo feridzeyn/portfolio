@@ -1,0 +1,50 @@
+{
+  "name": "Farid Zeynalzade",
+  "home": "Domovská stránka",
+  "about": "O mně",
+  "project": "Projekty",
+  "contact": "Kontakt",
+  "mySkills": "Mé dovednosti",
+  "usedTechnologies": "Použité technologie a mé dovednosti:",
+  "currentlyLearning": "Věci, na kterých právě pracuji a které se učím:",
+  "languagesIKnow": "Jazyky, které ovládám",
+  "myProjects": "Mé projekty",
+  "languageLevels": {
+    "english": "Angličtina",
+    "czech": "Čeština",
+    "turkish": "Turečtina",
+    "azerbaijani": "Ázerbájdžánština",
+    "b2": "Úroveň B2",
+    "b1": "Úroveň B1",
+    "c1": "Úroveň C1",
+    "motherTongue": "Rodný jazyk",
+    "projectTitle": "E-commerce webová stránka",
+    "projectDescription": "Tento projekt byl vyvinut pomocí React.js a pomohl mi zlepšit mé myšlení založené na komponentách. Projekt obsahuje funkce jako správa stavu, práce s props a React Router. K přidávání produktů do košíku a správě uživatelského rozhraní byly použity hooky jako useState a useEffect."
+  },
+  "projects": {
+    "ecommerce": {
+      "title": "E-commerce Web",
+      "description": "Tento projekt byl vytvořen pomocí React.js a pomohl mi rozvíjet způsob myšlení založený na komponentách. Byly implementovány funkce jako správa stavu, práce s props a React Router. Pro přidávání produktů do košíku a správu uživatelského rozhraní byly použity hooky jako useState a useEffect."
+    },
+    "weather": {
+      "title": "Aplikace pro předpověď počasí v regionech Ázerbájdžánu",
+      "description": "Tento projekt byl vytvořen společně s mým kolegou během stáže v agentuře MyMentor. Aplikace zobrazuje aktuální počasí v různých regionech Ázerbájdžánu a data jsou získávána pomocí API OpenWeatherMap. Při práci na projektu jsem si prakticky zlepšil dovednosti v Reactu a také spolupráci v týmu díky použití Gitu."
+    },
+    "design": {
+      "title": "Designová aplikace",
+      "description": "Tento projekt byl vytvořen společně s mým kolegou během stáže v agentuře MyMentor. Hlavním cílem projektu bylo zaměřit se na efektivní využití Tailwind CSS a zlepšit naše znalosti v oblasti stylování. Aplikace byla vytvořena pomocí React.js, což nám poskytlo praktickou příležitost naučit se vývoj založený na komponentách a moderní principy UI designu."
+    },
+    "currency": {
+      "title": "Aplikace pro převod měn",
+      "description": "Tento projekt byl vytvořen pod vedením mého učitele během procesu učení JavaScriptu. Aplikace získává aktuální směnné kurzy z API a zobrazí uživateli převedenou částku. Tento projekt mi pomohl upevnit základy JavaScriptu a získat základní zkušenosti s integrací API."
+    },
+    "search": {
+      "title": "Vyhledávací aplikace",
+      "description": "Tento projekt jsem vytvořil během učení JavaScriptu. Pomocí Unsplash API se dynamicky načítají a zobrazují obrázky podle dotazu zadaného uživatelem. Díky tomuto projektu jsem získal praktické zkušenosti s prací s API, metodou fetch a manipulací s DOM."
+    }
+  },
+  "goToLink": "Přejít na odkaz",
+  "aboutMe": "Jsem Farid Zeynalzade, absolvent Ázerbájdžánské Technické Univerzity. Od června 2024 se věnuji rozvoji v oblasti frontendového vývoje. Můj mentor <1>Elgun Mammadli</1> mi poskytl základní znalosti a směr v tomto oboru. Své vzdělávání jsem neomezil pouze na kurz, ale neustále jsem pracoval na sobě prostřednictvím samostudia. Stáž jsem absolvoval v agentuře \"MyMentor Internship and Development Agency\", kde jsem se zúčastnil několika malých a jednoho většího týmového projektu. Tyto projekty mi přinesly důležité zkušenosti s reálným pracovním prostředím, týmovou spoluprací a řízením projektů. V současné době se dále ponořuji do frontendových technologií a neustále se učím, jak vytvářet uživatelsky přívětivá a funkční webová rozhraní.",
+  "uploadCV": "Klikněte pro nahrání životopisu",
+  "loadMore": "Zobrazit více.."
+}
