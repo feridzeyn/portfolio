@@ -13,7 +13,7 @@ export default function LocalSwitcher() {
 	return (
 		<select defaultValue={i18n.language}
 				onChange={handleLanguageChange}
-				className={'bg-transparent border-none focus:outline-none text-red-400 text-[14px] md:text-sm lg:text-lg'}>
+				className={'bg-[#101722] border-none focus:outline-none text-red-400 text-[14px] md:text-sm lg:text-lg'}>
 			<option value="az">AZ</option>
 			<option value="en">EN</option>
 			<option value="cz">CZ</option>
