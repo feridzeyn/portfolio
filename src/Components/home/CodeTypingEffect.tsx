@@ -25,11 +25,16 @@ export default function CodeTypingEffect() {
 				backgroundColor: '#1e1e1e',
 				color: '#f87f7f',
 				fontFamily: 'monospace',
-				padding: '40px',
+				padding: '20px',
 				borderRadius: '8px',
 				boxShadow: '0 0 10px rgba(255,77,0,0.5)',
+				width: '100%',
 				maxWidth: '500px',
-				whiteSpace: 'pre-wrap'
+				whiteSpace: 'pre-wrap',
+				overflowWrap: 'break-word',
+				wordWrap: 'break-word',
+				margin: '0 auto',
+				boxSizing: 'border-box'
 			}}>
 				<Typewriter
 					words={[code]}
