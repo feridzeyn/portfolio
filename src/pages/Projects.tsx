@@ -6,8 +6,8 @@ export default function Projects() {
 	return (
 		<>
 			<section>
-				<div className="mb-[100px]">
-					<h1 className="text-6xl text-red-500 font-bold uppercase">{t('myProjects')}</h1>
+				<div className="mb-2 md:mb-10 lg:mb-16">
+					<h1 className="flex justify-center md:justify-start items-center text-xl md:text-3xl lg:text-6xl text-red-500 font-bold uppercase">{t('myProjects')}</h1>
 				</div>
 				<div className="">
 					<CardComponent/>

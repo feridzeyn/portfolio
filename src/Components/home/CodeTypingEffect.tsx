@@ -29,7 +29,6 @@ export default function CodeTypingEffect() {
 				borderRadius: '8px',
 				boxShadow: '0 0 10px rgba(255,77,0,0.5)',
 				width: '100%',
-				maxWidth: '500px',
 				whiteSpace: 'pre-wrap',
 				overflowWrap: 'break-word',
 				wordWrap: 'break-word',

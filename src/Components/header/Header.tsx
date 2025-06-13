@@ -20,7 +20,7 @@ export function Header() {
 	}, [isOpen]);
 	return (
 		<>
-			<div className="py-6 pt-10 md:pb-10  mb:pt-16 flex justify-between items-center mb-6 md:mb-12 lg:mb-22 ">
+			<div className="py-6 pt-10 md:pb-10  mb:pt-16 flex justify-between items-center mb-0 md:mb-12 lg:mb-22 ">
 				<Link to="/">
 				<span
 					className="text-red-400 self-center whitespace-nowrap text-lg md:text-xl lg:text-3xl md:font-semibold ">{t('name')}</span>

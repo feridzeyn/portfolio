@@ -1,6 +1,6 @@
 import SkillsBody from "./SkillsBody.tsx";
 import CurrentlyLearning from "./CurrentlyLearning.tsx";
-import Languages from "./Languages.tsx";
+import LanguageSkills from "./LanguageSkills.tsx";
 import {useTranslation} from "react-i18next";
 
 export default function MySkills() {
@@ -8,16 +8,19 @@ export default function MySkills() {
 	return (
 		<>
 			<div>
-				<div className="pt-22">
-					<h1 className="text-6xl text-red-500 font-bold uppercase">{t('mySkills')}</h1>
+				<div className="pt-26 md:pt-22 mb-2 md:mb-10 lg:mb-16">
+					<h1 className="flex justify-center md:justify-start items-center text-xl md:text-3xl lg:text-6xl text-red-500 font-bold uppercase">{t('mySkills')}</h1>
 				</div>
-				<SkillsBody/>
-				<div className="flex justify-between  mt-15">
+				<div>
+					<SkillsBody/>
+				</div>
+
+				<div className="flex flex-col md:flex-row justify-center items-center md:items-start md:justify-between mt-6 md:mt-10 lg:mt-15 ">
 					<div >
 						<CurrentlyLearning/>
 					</div>
 					<div>
-						<Languages/>
+						<LanguageSkills/>
 					</div>
 
 				</div>
