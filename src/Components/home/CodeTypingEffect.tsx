@@ -12,7 +12,8 @@ export default function CodeTypingEffect() {
   <h1>Welcome to My Portfolio</h1>
   <button class="button">Hire Me</button>
   <script>
-    document.querySelector('.button').addEventListener('click', () => {
+    document.querySelector('.button')
+    .addEventListener('click', () => {
       alert('Thank you!');
     });
   </script>
@@ -25,7 +26,7 @@ export default function CodeTypingEffect() {
 				backgroundColor: '#1e1e1e',
 				color: '#f87f7f',
 				fontFamily: 'monospace',
-				padding: '20px',
+				padding: '18px',
 				borderRadius: '8px',
 				boxShadow: '0 0 10px rgba(255,77,0,0.5)',
 				width: '100%',

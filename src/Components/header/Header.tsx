@@ -5,22 +5,21 @@ import {useEffect, useState} from "react";
 import HeaderHamburger from './HeaderHamburger.tsx'
 export function Header() {
 	const {t} = useTranslation();
-	const [isOpen, setOpen] = useState(false);
+	const [isOpen, setOpen] = useState<boolean>(false);
 	useEffect(() => {
 		if (isOpen) {
 			document.body.classList.add('overflow-hidden');
-			setOpen(true);
 		} else {
 			document.body.classList.remove('overflow-hidden');
 		}
 		return () => {
 			document.body.classList.remove('overflow-hidden');
-		setOpen(false);
 		};
 	}, [isOpen]);
+
 	return (
 		<>
-			<div className="py-6 pt-10 md:pb-10  mb:pt-16 flex justify-between items-center mb-0 md:mb-12 lg:mb-22 ">
+			<div className="py-6 pt-10 md:pb-10  md:pt-16 flex justify-between items-center mb-0 md:mb-12 lg:mb-22 ">
 				<Link to="/">
 				<span
 					className="text-red-400 self-center whitespace-nowrap text-lg md:text-xl lg:text-3xl md:font-semibold ">{t('name')}</span>
@@ -36,13 +35,13 @@ export function Header() {
 					</div>
 				</div>
 				<div className="md:hidden">
-					<Hamburger toggled={isOpen} toggle={setOpen} color={'#fc8181'} size={18}/>
+					<Hamburger toggled={isOpen} toggle={setOpen} color={'#fc8181'} size={20}/>
 				</div>
 			</div>
 			{isOpen && (
 				<div
 					className=' absolute top-[96px] md:top-[148px] left-0 w-full h-screen bg-[#101722] text-black  z-50  overflow-auto'>
-					<HeaderHamburger/>
+					<HeaderHamburger setOpen={setOpen}/>
 				</div>
 			)}
 		</>

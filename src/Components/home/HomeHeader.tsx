@@ -6,7 +6,7 @@ export default function HomeHeader() {
 
 			<div className="flex flex-col md:flex-row justify-between items-center h-[400px]">
 				<div>
-					<p className="text-3xl md:text-6xl lg:text-8xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-red-700 to-red-400 text-center leading-snug">Front-End <br/> Developer
+					<p className="text-3xl md:text-4xl lg:text-8xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-red-700 to-red-400 text-center leading-snug">Front-End <br/> Developer
 					</p>
 				</div>
 				<div>
