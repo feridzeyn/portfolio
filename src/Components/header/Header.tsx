@@ -19,7 +19,7 @@ export function Header() {
 
 	return (
 		<>
-			<div className="py-6 pt-10 md:pb-10  md:pt-16 flex justify-between items-center mb-0 md:mb-12 lg:mb-22 ">
+			<div className=" py-8  md:py-16 flex justify-between items-center  ">
 				<Link to="/">
 				<span
 					className="text-red-400 self-center whitespace-nowrap text-lg md:text-xl lg:text-3xl md:font-semibold ">{t('name')}</span>
