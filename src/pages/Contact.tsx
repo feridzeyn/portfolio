@@ -5,7 +5,7 @@ export default function Contact() {
 	return (
 	<>
 	<div>
-		<h1><a href="../assets/pdf/resume.pdf" download className="text-red-500 font-semibold lg:font-bold text-4xl flex justify-center mb-[300px] md:mb-[600px]">{t('uploadCV')}</a></h1>
+		<h1><a href="/resume.pdf" download className="text-red-500 font-semibold lg:font-bold text-4xl flex justify-center mb-[300px] md:mb-[600px]">{t('uploadCV')}</a></h1>
 	</div>
 	</>
 	)
